@@ -1,0 +1,1 @@
+# GerenciadorImagensBack_end
